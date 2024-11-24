@@ -1,4 +1,4 @@
-# Neural Network Project: Can AI Experience or Develop Schizophrenia?
+# Neural Networks for Project: Can AI Experience or Develop Schizophrenia?
 
 This project explores whether AI can experience or develop schizophrenia by simulating neural activity patterns using basic neural network principles in Python. It features an interactive graphical interface built with Tkinter, allowing users to adjust parameters and observe behavior in real-time. 
 
